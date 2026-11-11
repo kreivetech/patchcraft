@@ -3,7 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/patchcraft.svg)](https://crates.io/crates/patchcraft)
 [![Documentation](https://docs.rs/patchcraft/badge.svg)](https://docs.rs/patchcraft)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Maintained by Kreive Tech](https://img.shields.io/badge/maintained%20by-Kreive%20Tech-6366f1.svg)](https://kreivetech.com)
+[![Maintained by Kreive Tech](https://img.shields.io/badge/maintained%20by-Kreive%20Tech-6366f1.svg)](https://kreive.com.br)
 
 **Fast, resilient, and surgical code patch parser and atomic disk applier designed for LLM coding workflows.**
 
@@ -139,11 +139,11 @@ println!("{}", formatted_proposal);
 
 ## 🏢 Maintained & Sponsored by
 
-`patchcraft` is actively developed and maintained by **[Kreive Tech](https://kreivetech.com)** as part of its open-source developer tooling ecosystem.
+`patchcraft` is actively developed and maintained by **[Kreive Tech](https://kreive.com.br)** as part of its open-source developer tooling ecosystem.
 
-- **Website**: [https://kreivetech.com](https://kreivetech.com)
+- **Website**: [https://kreive.com.br](https://kreive.com.br)
 - **GitHub**: [@kreivetech](https://github.com/kreivetech)
-- **Contact**: [contact@kreivetech.com](mailto:contact@kreivetech.com)
+- **Contact**: [contact@kreive.com.br](mailto:contact@kreive.com.br)
 
 ---
 
