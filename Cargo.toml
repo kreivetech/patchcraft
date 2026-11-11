@@ -1,9 +1,9 @@
 [package]
 name = "patchcraft"
 version = "0.1.0"
-edition = "2021"
-rust-version = "1.75"
-authors = ["Kreivetech Team <contact@kreivetech.com>"]
+edition = "2024"
+rust-version = "1.85.0"
+authors = ["Kreive Tech <contact@kreivetech.com>"]
 description = "Fast, resilient, and surgical code patch parser and atomic disk applier designed for LLM coding workflows"
 license = "MIT"
 readme = "README.md"
