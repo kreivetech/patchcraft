@@ -232,7 +232,7 @@ pub fn clean_chat_proposal(response: &str) -> String {
                 cleaned_lines.push("```".to_string());
             } else if let Some(ref path) = current_file {
                 if current_action == "create" {
-                    cleaned_lines.push(format!("#### 📄 `{}` *(Novo arquivo)*", path));
+                    cleaned_lines.push(format!("#### 📄 `{}` *(New file)*", path));
                 } else {
                     cleaned_lines.push(format!("#### 📄 `{}`", path));
                 }

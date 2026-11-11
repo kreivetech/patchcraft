@@ -3,6 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/patchcraft.svg)](https://crates.io/crates/patchcraft)
 [![Documentation](https://docs.rs/patchcraft/badge.svg)](https://docs.rs/patchcraft)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Maintained by Kreive Tech](https://img.shields.io/badge/maintained%20by-Kreive%20Tech-6366f1.svg)](https://kreivetech.com)
 
 **Fast, resilient, and surgical code patch parser and atomic disk applier designed for LLM coding workflows.**
 
@@ -133,6 +134,16 @@ println!("{}", formatted_proposal);
 ## 🛡️ Security
 
 `patchcraft` rigorously validates every relative path against the configured `root_dir`. Any attempt to escape the root boundary (e.g. `../../etc/passwd` or symbolic path traversals) is detected, rejected, and returned as `PatchActionKind::SkippedUnsafe`.
+
+---
+
+## 🏢 Maintained & Sponsored by
+
+`patchcraft` is actively developed and maintained by **[Kreive Tech](https://kreivetech.com)** as part of its open-source developer tooling ecosystem.
+
+- **Website**: [https://kreivetech.com](https://kreivetech.com)
+- **GitHub**: [@kreivetech](https://github.com/kreivetech)
+- **Contact**: [contact@kreivetech.com](mailto:contact@kreivetech.com)
 
 ---
 
